@@ -1,0 +1,33 @@
+.card {
+    width: 500px;
+    margin: 200px auto;
+}
+
+.card-header {
+    text-align: center;
+}
+
+.card-body {
+    margin: auto;
+}
+
+.img-thumbnail {
+    width: 200px;
+    height: 200px;
+}
+
+#result {
+    text-align: center;
+    margin: 30px 20px;
+}
+
+#result img {
+    margin: 10px;
+}
+
+.start {
+    width: 245px;
+    height: 245px;
+    margin: auto;
+    line-height: 245px;
+}
